@@ -1,0 +1,4 @@
+HXCPP_ARMV7=1
+hxcpp=3.2.193
+hxcpp_api_level=321
+hxcpp=C:\Users\Samuel\windows/hxcpp/3,2,193/
