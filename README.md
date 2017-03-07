@@ -1,5 +1,5 @@
 # SideScrollShooter
-A playable prototype side scrolling game build with HaxeFlixel.
+A playable prototype side scrolling game.
 
 Sorry if the graphic hurts your eyes.
 
